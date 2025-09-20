@@ -194,16 +194,7 @@ typedef struct {
 
 MIT License - 请参阅 [LICENSE](LICENSE) 文件了解详情。
 
-## 🤝 贡献
 
-欢迎提交Issue和Pull Request！
-
-## 📧 联系方式
-
-如有问题或建议，请通过以下方式联系：
-
-- 提交 [Issue](https://github.com/yourusername/freertos-button-library/issues)
-- 发送邮件至：your.email@example.com
 
 ## 🔗 相关链接
 
